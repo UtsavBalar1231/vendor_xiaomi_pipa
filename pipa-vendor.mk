@@ -87,6 +87,26 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/etc/audio_policy_engine_stream_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_engine_stream_volumes.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/audio_policy_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_volumes.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/audio_tuning_mixer.txt:$(TARGET_COPY_OUT_VENDOR)/etc/audio_tuning_mixer.txt \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/102_SummerDay.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/102_SummerDay.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/103_Fantasy.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/103_Fantasy.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/104_Meet.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/104_Meet.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/105_WindSing.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/105_WindSing.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/106_Lost.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/106_Lost.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/107_Central.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/107_Central.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/108_NorthernEurope.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/108_NorthernEurope.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/109_Rome.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/109_Rome.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/110_BlackGold.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/110_BlackGold.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/111_GreenOrange.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/111_GreenOrange.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/112_CyberPunk.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/112_CyberPunk.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/113_BlackIce.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/113_BlackIce.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/121_Bleach.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/121_Bleach.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/122_Thriller.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/122_Thriller.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/123_TealOrange.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/123_TealOrange.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/124_JapaneseStyle.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/124_JapaneseStyle.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/125_Latin.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/125_Latin.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/126_Fantasy2.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/126_Fantasy2.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/127_Creamy.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/127_Creamy.png \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/128_Sepia.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera/128_Sepia.png \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/CFR_para_W_V01.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/CFR_para_W_V01.bin \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/CFR_para_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/CFR_para_config.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/GpuKernelRepo.pb:$(TARGET_COPY_OUT_VENDOR)/etc/camera/GpuKernelRepo.pb \
@@ -95,6 +115,29 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/LDC_PACKDATA_VENDORID_0x01.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/LDC_PACKDATA_VENDORID_0x01.bin \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/LDC_PACKDATA_VENDORID_0x03.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/LDC_PACKDATA_VENDORID_0x03.bin \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/LDC_PACKDATA_VENDORID_0x07.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/LDC_PACKDATA_VENDORID_0x07.bin \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x_iso100.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x_iso100.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x_iso100_zoom20x.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x_iso100_zoom20x.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x_iso100_zoom30x.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x_iso100_zoom30x.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x_iso100_zoom40x.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x_iso100_zoom40x.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x_moon.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x_moon.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x_zoom20x.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x_zoom20x.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x_zoom30x.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x_zoom30x.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele4x_zoom40x.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele4x_zoom40x.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_tele_iso100.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_tele_iso100.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_wide.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_wide.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/almalence_sr_params_wide_64M.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/almalence_sr_params_wide_64M.config \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/camxoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/camxoverridesettings.txt \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/com.xiaomi.dcal.wd.golden:$(TARGET_COPY_OUT_VENDOR)/etc/camera/com.xiaomi.dcal.wd.golden \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/eisoverridesettings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/eisoverridesettings.txt \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/facefocus_models/detlmk.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/facefocus_models/detlmk.dlc \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/facefocus_models/facedet_dark_full.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/facefocus_models/facedet_dark_full.dlc \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/facefocus_models/facedet_dark_part.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/facefocus_models/facedet_dark_part.dlc \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/facefocus_models/facedet_front.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/facefocus_models/facedet_front.dlc \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/facefocus_models/facedet_full.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/facefocus_models/facedet_full.dlc \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/facefocus_models/facedet_part.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/facefocus_models/facedet_part.dlc \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/facefocus_models/facevalid.dlc:$(TARGET_COPY_OUT_VENDOR)/etc/camera/facefocus_models/facevalid.dlc \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/hdr_ui9_params.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/hdr_ui9_params.config \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/hdrd_ui9_params.config:$(TARGET_COPY_OUT_VENDOR)/etc/camera/hdrd_ui9_params.config \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/libarcsoft_super_night_raw_bin.so:$(TARGET_COPY_OUT_VENDOR)/etc/camera/libarcsoft_super_night_raw_bin.so \
@@ -109,6 +152,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/sr_params.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/sr_params.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/thirdpartgroup.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/thirdpartgroup.txt \
     vendor/xiaomi/pipa/proprietary/vendor/etc/camera/vidhance_calibration:$(TARGET_COPY_OUT_VENDOR)/etc/camera/vidhance_calibration \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/camera/xiaomiSceneDetection.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/xiaomiSceneDetection.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/configstore/vpp.configstore.xml:$(TARGET_COPY_OUT_VENDOR)/etc/configstore/vpp.configstore.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/configstore/wigig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/configstore/wigig.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/default.lm:$(TARGET_COPY_OUT_VENDOR)/etc/default.lm \
@@ -163,6 +207,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/vendor-qti-hardware-sensorscalibrate.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/permissions/vendor.qti.hardware.factory.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/vendor.qti.hardware.factory.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/qdcm_calib_data_xiaomi_m82_36_02_0a_video_mode_dual_dsi_dphy_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_xiaomi_m82_36_02_0a_video_mode_dual_dsi_dphy_panel.xml \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/qdcm_calib_data_xiaomi_m82_42_02_0b_video_mode_dual_dsi_dphy_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_xiaomi_m82_42_02_0b_video_mode_dual_dsi_dphy_panel.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/vendor.qti.hardware.dsp.policy \
     vendor/xiaomi/pipa/proprietary/vendor/etc/seccomp_policy/wfdhdcphalservice.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/wfdhdcphalservice.policy \
     vendor/xiaomi/pipa/proprietary/vendor/etc/seccomp_policy/wfdvndservice.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/wfdvndservice.policy \
@@ -219,14 +265,39 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/etc/sound_trigger_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_platform_info.xml \
     vendor/xiaomi/pipa/proprietary/vendor/etc/ssg/ta_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/ta_config.json \
     vendor/xiaomi/pipa/proprietary/vendor/etc/ssg/tz_whitelist.json:$(TARGET_COPY_OUT_VENDOR)/etc/ssg/tz_whitelist.json \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-4k.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-4k.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-camera.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-cclassvideo.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-cclassvideo.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-cgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-cgame.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-chg-only.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-chg-only.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-class0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-class0.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-4k.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-4k.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-camera.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-chg-only.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-chg-only.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-class0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-class0.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-hp-mgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-hp-mgame.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-hp-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-hp-normal.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-huanji.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-huanji.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-mgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-mgame.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-nolimits.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-nolimits.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-normal.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-tgame.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-video.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-video.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-global-videochat.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-global-videochat.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-huanji.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-huanji.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-4k.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-4k.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-camera.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-chg-only.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-chg-only.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-class0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-class0.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-huanji.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-huanji.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-mgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-mgame.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-nolimits.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-nolimits.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-normal.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-tgame.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-video.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-video.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-india-videochat.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-india-videochat.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-map-global.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-map-global.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-map-india.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-map-india.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-map.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-mgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-mgame.conf \
@@ -235,6 +306,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-region-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-region-map.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-tgame.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-video.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-video.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-videochat.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-videochat.conf \
+    vendor/xiaomi/pipa/proprietary/vendor/etc/thermal-yuanshen.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-yuanshen.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/thermald-devices.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermald-devices.conf \
     vendor/xiaomi/pipa/proprietary/vendor/etc/tunings.txt:$(TARGET_COPY_OUT_VENDOR)/etc/tunings.txt \
     vendor/xiaomi/pipa/proprietary/vendor/etc/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml \
@@ -579,6 +652,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libAF.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libAF.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libAlacSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libAlacSwDec.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libApeSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libApeSwDec.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libFace3DTA.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFace3DTA.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libFace3D_hlos.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFace3D_hlos.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libFaceCenterAlgo.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFaceCenterAlgo.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libFlacSwDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libFlacSwDec.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libGPQTEEC_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libGPQTEEC_vendor.so \
@@ -599,11 +674,17 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libOmxQcelp13Dec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxQcelp13Dec.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libOmxVpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxVpp.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libOmxWmaDec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libOmxWmaDec.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libPSNPE.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libPSNPE.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libPlatformValidatorShared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libPlatformValidatorShared.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libQSEEComAPI.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libQSEEComAPI.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libQTEEConnector_listener.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libQTEEConnector_listener.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libQTEEConnector_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libQTEEConnector_vendor.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libSNPE.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSNPE.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libSnpeHtpPrepare.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSnpeHtpPrepare.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libSnpeHtpV68Stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSnpeHtpV68Stub.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libSnpeHtpV69Stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSnpeHtpV69Stub.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libXMFaceFocus.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libXMFaceFocus.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/lib_sr_models.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_sr_models.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libadsp_default_listener.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadsp_default_listener.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libadsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libadsprpc.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libalAILDC.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libalAILDC.so \
@@ -621,7 +702,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libarcsoft_qnnhtp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_qnnhtp.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libarcsoft_super_night_raw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libarcsoft_super_night_raw.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libbase64.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbase64.so \
-    vendor/xiaomi/pipa/proprietary/vendor/lib64/libbeauty_face_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbeauty_face_interface.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libbluetooth_audio_session_qti.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbluetooth_audio_session_qti.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libbluetooth_audio_session_qti_2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbluetooth_audio_session_qti_2_1.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libbt-hidlclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbt-hidlclient.so \
@@ -646,7 +726,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libcapiv2vop.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcapiv2vop.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libcdsp_default_listener.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcdsp_default_listener.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libcdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcdsprpc.so \
-    vendor/xiaomi/pipa/proprietary/vendor/lib64/libcdsprpc_system.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcdsprpc_system.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libchilog.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libchilog.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libcom.qti.chinodeutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcom.qti.chinodeutils.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libcpion.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcpion.so \
@@ -665,6 +744,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libdrmtime.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdrmtime.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libdsutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdsutils.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libdualcam_optical_zoom_control.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdualcam_optical_zoom_control.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libface3d_dev.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libface3d_dev.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libfastcvdsp_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfastcvdsp_stub.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libhdcp1prov.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdcp1prov.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libhdcp2p2prov.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhdcp2p2prov.so \
@@ -680,6 +760,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libkeymasterprovision.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterprovision.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libkeymasterutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libkeymasterutils.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libloadalgo_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libloadalgo_stub.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/liblowi_wifihal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liblowi_wifihal.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libmdmdetect.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmdmdetect.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libmdmimgload.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmdmimgload.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libmdsprpc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmdsprpc.so \
@@ -777,6 +858,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libultrasound.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libultrasound.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libvideofilter_only.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvideofilter_only.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libvidhance.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libvidhance_active_ois.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance_active_ois.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libvidhance_face_stabilizer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance_face_stabilizer.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libvidhance_horizon_correction.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance_horizon_correction.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libvidhance_ldc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance_ldc.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libvidhance_stabilizer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance_stabilizer.so \
+    vendor/xiaomi/pipa/proprietary/vendor/lib64/libvidhance_super_stabilization.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance_super_stabilization.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libvppclient.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvppclient.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libvpphcp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpphcp.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libvpphvx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpphvx.so \
@@ -785,7 +872,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libvpptestutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpptestutils.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libwvhidl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvhidl.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/libwvkeybox.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libwvkeybox.so \
-    vendor/xiaomi/pipa/proprietary/vendor/lib64/libxml2_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libxml2_vendor.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/mediadrm/libwvdrmengine.so:$(TARGET_COPY_OUT_VENDOR)/lib64/mediadrm/libwvdrmengine.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/rfsa/adsp/libsns_device_mode_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/rfsa/adsp/libsns_device_mode_skel.so \
     vendor/xiaomi/pipa/proprietary/vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so:$(TARGET_COPY_OUT_VENDOR)/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so \
